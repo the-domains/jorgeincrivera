@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JorgeINCRivera]]></title>
         <description><![CDATA[JorgeINCRivera]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jorgeincrivera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 22:30:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 22:30:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jorgeincrivera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JorgeINCRivera]]></title>
+            <description><![CDATA[<article><h1>JorgeINCRivera</h1><p>BFA From the School of Fine Arts of Puerto Rico, Studies in the sociology field, from University of Puerto Rico and A MFA in Museum Studies from The Caribbean University. Mr. Rivera has been working since 1998 till present in a variety of formats. From painting to public interventions and site specific works.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbbb73e798e6294c543ef74c004db72b/noop.jpg?input=http%3A%2F%2Fih0.redbubble.net%2Favatar.818104.140x140.jpg"></article>]]></description>
+            <link>http://www.redbubble.com/people/jorgeincrivera</link>
+            <guid isPermaLink="false">5ae1b3e5-91bb-4d1b-ae52-054407a06be3</guid>
+            <pubDate>Tue, 19 Jul 2016 22:30:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1ed6a44-ba30-4aac-ab7c-7d606995f28d.jpg">]]></description>
-            <link>undefined8f55e15f-002f-4010-b3ef-b2370d8e8a64/index.html</link>
+            <link>https://thegrid.ai/jorgeincrivera/8f55e15f-002f-4010-b3ef-b2370d8e8a64/index.html</link>
             <guid isPermaLink="false">8f55e15f-002f-4010-b3ef-b2370d8e8a64</guid>
             <pubDate>Tue, 19 Jul 2016 22:30:38 GMT</pubDate>
         </item>
