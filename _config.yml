@@ -1,3 +1,6 @@
+name: JorgeINCRivera
+layout_spectrum: 1
+typography_spectrum: 0.757803
 color:
   brandColors:
     - '#71A7FE'
@@ -7,8 +10,5 @@ color:
     - '#CEAFC0'
   brandStrength: 0.007401
   lightness: 0.019736
-  rhythmicContrast: 0.008223
   saturation: 0.01069
-layout_spectrum: 1
-name: JorgeINCRivera
-typography_spectrum: 0.757803
+  rhythmicContrast: 0.008223
