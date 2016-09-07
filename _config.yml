@@ -1,6 +1,9 @@
 name: JorgeINCRivera
 layout_spectrum: 1
 typography_spectrum: 0.757803
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#71A7FE'
@@ -12,3 +15,10 @@ color:
   lightness: 0.019736
   saturation: 0.01069
   rhythmicContrast: 0.008223
+title: ''
+author:
+  name: ''
+  url: www.jorgeincrivera.com
+  email: ''
+content_rating:
+  adult: false
